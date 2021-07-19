@@ -3,8 +3,9 @@
    <p align="left">Hi, I’m Evansy!</a>, a young developer from Turkey 🚀</p>
 <img src="https://komarev.com/ghpvc/?username=evansyxd-js&label=Profile%20views&color=0e75b6&style=flat"
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/536856882703499264
-                            )](https://discord.com/users/536856882703499264)
+<a href="https://discord.com/users/536856882703499264">
+  <img src="https://lanyard-profile-readme.vercel.app/api/536856882703499264" align="right" />
+</a>
 
 <h3>My Personal accounts:</h3>
 <p align="left">
