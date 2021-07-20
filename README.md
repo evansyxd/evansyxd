@@ -2,8 +2,9 @@
 <h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
    <p align="left">Hi, I’m Evansy!</a>, a young developer from Turkey 🚀</p>
 <img src="https://komarev.com/ghpvc/?username=evansyxd-js&label=Profile%20views&color=0e75b6&style=flat"
-<a href="https://discord.com/users/536856882703499264">
-  <img src="https://lanyard-profile-readme.vercel.app/api/536856882703499264" align="right" />
+<div align="center">
+    <a href="https://discord.com/users/536856882703499264" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/536856882703499264"></a>
+</div>
 
 <h3>My Personal accounts:</h3>
 <p align="left">
