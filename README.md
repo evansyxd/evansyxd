@@ -2,7 +2,7 @@
 <h2 align="left">Hi, I'm Evansy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
    <p align="left">Hi, my name is Recep. I'm 17 years old, a young developer from Turkey 🚀. I started dealing with software 2 year ago by developing discord bots. Currently, I continue to make discord bots, websites and develop myself in software.</p>
 <img src="https://komarev.com/ghpvc/?username=evansyxd-js&label=Profile%20views&color=FEE75C&style=flat"
-<div align="center">
+<div align="centerhtml
     <a href="https://discord.com/users/536856882703499264" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/536856882703499264"></a> 
 </div>
 
