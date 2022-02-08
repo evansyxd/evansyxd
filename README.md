@@ -1,18 +1,18 @@
 
 <h2 align="left">Hi, I'm Evansy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
    <p align="left">Hi, my name is Recep. I'm 17 years old, a young developer from Turkey 🚀. I started dealing with software 2 year ago by developing discord bots. Currently, I continue to make discord bots, websites and develop myself in software.</p>
-<img src="https://komarev.com/ghpvc/?username=evansyxd-js&label=Profile%20views&color=080808&style=flat"
+<img src="https://komarev.com/ghpvc/?username=evansyxd-js&label=Profile%20views&color=FEE75C&style=flat"
 <div align="center">
     <a href="https://discord.com/users/536856882703499264" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/536856882703499264"></a> 
 </div>
 
 <h3>My Personal accounts:</h3>
 <p align="left">
-   <a href="https://discord.com/users/536856882703499264" target"blank_"><img src="https://img.shields.io/badge/discord%20-191717.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://github.com/evansyxd" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://zeribot.live" target"blank_"><img src="https://img.shields.io/badge/Zeri Bot%20-191717.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.com/users/536856882703499264" target"blank_"><img src="https://img.shields.io/badge/discord%20-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://github.com/evansyxd" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-2C2F33.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://zeribot.live" target"blank_"><img src="https://img.shields.io/badge/Zeri Bot%20-c26086.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
-<h2 dir="auto"><a id="user-content-langauges-i-know" class="anchor" aria-hidden="true" href="#langauges-i-know"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Langauges I Know:</h2>
+<h3>Languages i know:</h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35"><img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width: 100%;"></a>&nbsp;
